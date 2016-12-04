@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1480865852 source:d:\nguli\semester 3\asd\tubesasd\asd_bioskop\asd_bioskop.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	"ASD_bioskop.h"
+
+1480865614 d:\nguli\semester 3\asd\tubesasd\asd_bioskop\asd_bioskop.h
+
+1480865852 source:d:\nguli\semester 3\asd\tubesasd\asd_bioskop\main.cpp
+	<iostream>
+	<conio.h>
+	"ASD_bioskop.h"
+
